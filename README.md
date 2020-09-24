@@ -1,6 +1,8 @@
 ![poutingemoji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poutingemoji&theme=graywhite&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poutingemoji&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### Programming Languages
