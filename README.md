@@ -1,5 +1,5 @@
 ## Yes
-![Discord](https://img.shields.io/badge/%3CYES%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/%3Cpoutingemoji#5785%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
