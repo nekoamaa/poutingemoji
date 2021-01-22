@@ -1,3 +1,5 @@
+If you want to work with me on my Discord Bot, you can reach me at poutingemoji#5785.
+
 ## Yes
 
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
