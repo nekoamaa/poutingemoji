@@ -15,6 +15,6 @@
 ![poutingemoji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poutingemoji&theme=dark&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poutingemoji&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=poutingemoji.poutingemoji)
-
 #### Need to contact me? Reach me on Discord at `poutingemoji#5785`
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=poutingemoji.poutingemoji)
