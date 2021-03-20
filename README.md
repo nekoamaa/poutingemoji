@@ -1,4 +1,4 @@
-### Need to contact me? Reach me on Discord at poutingemoji#5785
+
 ## Discord Bots  
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -16,3 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poutingemoji&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=poutingemoji.poutingemoji)
+
+### Need to contact me? Reach me on Discord at poutingemoji#5785
