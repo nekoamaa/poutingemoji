@@ -24,7 +24,7 @@
     <td class="tg-0pky"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="200" height="100"></td></td>
   </tr>
   <tr>
-    <td class="tg-0pky">![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white) </td>
+    <td class="tg-0pky"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" width="200" height="100"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
