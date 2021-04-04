@@ -5,7 +5,7 @@
   <tr>
     <td> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"  alt="1" width = 360px height = 640px ></td>
 
-    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+    <td><img src="(https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="2" width = 360px height = 640px></td>
    </tr> 
    <tr>
       <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
