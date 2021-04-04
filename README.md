@@ -10,12 +10,12 @@
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="100" height="30"></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" width="100" height="30"></td>
-    <td><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="100" height="30"></td></td>
+    <td><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></td>
+    <td><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"></td>
+    <td><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="30"></td>
+    <td><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></td>
     <td></td>
     <td></td>
   </tr>
@@ -26,38 +26,38 @@
 <table>
 <thead>
   <tr>
-    <th>Frontend Frameworks</th>
-    <th>Backend Frameworks</th>
+    <th>Client</th>
+    <th>Server</th>
     <th>Database</th>
     <th>Hosting</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="100" height="30"></td>
-    <td><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="Express.js" width="100" height="30"></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" width="100" height="30"></td>
-    <td><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="100" height="30"></td>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
+    </td>
+    <td>
+      <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+      <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+      <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+    </td>
+    <td><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="30"></td>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+      <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    </td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
 </tbody>
 </table>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js]()
-![React]()
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 ### 🎮 Games  
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
