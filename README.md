@@ -1,18 +1,34 @@
 
 ### 🤖 Discord Bots  
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <td> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"  alt="1" width = 360px height = 640px ></td>
-
-    <td><img src="(https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="./Scshot/cab_arrived.png" alt="3" width = 360px height = 640px></td>
-
-      <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px>
-  </td>
+    <th class="tg-0pky">Language</th>
+    <th class="tg-0pky">Database</th>
+    <th class="tg-0pky">Hosting</th>
   </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white)</td>
+    <td class="tg-0pky">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white) </td>
+    <td class="tg-0pky">![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&amp;style=for-the-badge&amp;logo=heroku&amp;logoColor=white)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white) </td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
 </table>
 
 | Language  | Database | Hosting |
