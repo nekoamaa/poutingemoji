@@ -16,8 +16,8 @@
   </tr>
   <tr>
     <td><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></td>
-    <td></td>
-    <td></td>
+    <td>🤡</td>
+    <td>🤡</td>
   </tr>
 </tbody>
 </table>
@@ -52,9 +52,9 @@
       <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
       <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>🤡</td>
+    <td>🤡</td>
+    <td>🤡</td>
   </tr>
 </tbody>
 </table>
