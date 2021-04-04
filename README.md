@@ -1,32 +1,25 @@
 
 ### 🤖 Discord Bots  
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+
+<table>
 <thead>
   <tr>
-    <th class="tg-0pky">Language</th>
-    <th class="tg-0pky">Database</th>
-    <th class="tg-0pky">Hosting</th>
+    <th>Language</th>
+    <th>Database</th>
+    <th>Hosting</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="200" height="100"></td>
-    <td class="tg-0pky"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" width="200" height="100"></td>
-    <td class="tg-0pky"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="200" height="100"></td></td>
+    <td><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="200" height="100"></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" width="200" height="100"></td>
+    <td><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="200" height="100"></td></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" width="200" height="100"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" width="200" height="100"></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
