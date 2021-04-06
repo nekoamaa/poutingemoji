@@ -22,7 +22,7 @@
 <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 
 ![poutingemoji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poutingemoji&theme=dark&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poutingemoji&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xetera&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 #### Need to contact me? Reach me on Discord at `poutingemoji#5785`
 
