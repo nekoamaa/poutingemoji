@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-My name is **poutingemoji** *Pronounced (poutin gem-oji)*, 💻 Front End & 🤖 Discord Bot Developer.
+My name is **poutingemoji** *Pronounced (poutin gem-oji)*, Hobbyist Programmer, Long-distance Runner, and Student
 
 I'm *extremely* passionate about making stuff that people enjoy using. If you have questions about my Discord bots or wanted to ask me something, you can reach me on 💬 [Discord (Send a friend request!)](https://discord.com/users/257641125135908866) or leave a message in my 🏰 [Discord server.](https://discord.com/invite/ywTEbHDgHX)
 
